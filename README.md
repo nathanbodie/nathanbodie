@@ -1,16 +1,26 @@
-## Hi there, I'm Nathan 👋
+# Hi, I'm Nathan 👋
 
-<!--
-**nathanbodie/nathanbodie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Aspiring software engineer & computer scientist`**
 
-Here are some ideas to get you started:
+## Education
+🎓 [**Florida Polytechnic University**][poly] Computer Science '24  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[poly]: https://floridapoly.edu/
+
+## Skills
+
+:man_technologist:		**C++**, C  
+:snake:					**Python**, NumPy, pandas, matplotlib  
+:paintbrush:			**Photoshop**  
+
+## Currently Learning
+
+- Data Structures
+- Algorithm Design & Analysis
+- Bash, UNIX command line, and VIM
+
+- - -
+
+<!--<a href="https://www.linkedin.com/in/nathan-bodie-60a070209/">
+    <img height="32" align="left" alt="Website" src="img/icons/linkedin.png" />
+</a>-->
