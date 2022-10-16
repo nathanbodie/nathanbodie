@@ -1,9 +1,9 @@
-# Hi, I'm Nathan 👋
+# Hi, I'm Nathan <img height="32" alt="Penguin Waving" src="img/penguinwave.png" />
 
 **`Aspiring software engineer & computer scientist`**
 
 ## Education
-🎓 [**Florida Polytechnic University**][poly] Computer Science '24  
+:mortar_board: [**Florida Polytechnic University**][poly] Computer Science '24  
 
 [poly]: https://floridapoly.edu/
 
