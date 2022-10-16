@@ -23,4 +23,4 @@
 
 <a href="https://www.linkedin.com/in/nathan-bodie-60a070209/">
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>-->
+</a>
