@@ -17,7 +17,7 @@
 
 :memo:      Data Structures  
 :memo:      Algorithm Design & Analysis  
-:memo:      Bash, UNIX command line, and VIM  
+:memo:      Bash, UNIX command line, and Vim  
 
 - - -
 
