@@ -1,4 +1,4 @@
-# Hi, I'm Nathan <img height="32" alt="Penguin Waving" src="img/penguinwave.png" />
+# Hi, I'm Nathan <img height="32" alt="Penguin Waving" src="img/penguinwavinganim.webp" />
 
 **`Aspiring software engineer & computer scientist`**
 
