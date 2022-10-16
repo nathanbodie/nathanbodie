@@ -11,7 +11,7 @@
 
 :man_technologist:		**C++**, C  
 :snake:					**Python**, NumPy, pandas, matplotlib  
-:paintbrush:			**Photoshop**  
+:art:			**Photoshop**  
 
 ## Currently Learning
 
