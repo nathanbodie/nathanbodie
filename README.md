@@ -25,6 +25,6 @@
     <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="paypal.me/dazexd">
+<a href="https://paypal.me/dazexd">
     <img height="32" align="left" alt="PayPal" src="img/icons/paypal.png" />
 </a>
