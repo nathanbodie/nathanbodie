@@ -15,9 +15,9 @@
 
 ## Currently Learning
 
-- Data Structures
-- Algorithm Design & Analysis
-- Bash, UNIX command line, and VIM
+:memo:      Data Structures
+:memo:      Algorithm Design & Analysis
+:memo:      Bash, UNIX command line, and VIM
 
 - - -
 
