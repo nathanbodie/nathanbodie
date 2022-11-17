@@ -3,7 +3,7 @@
 **`Aspiring software engineer & computer scientist`**
 
 ## Life
-:mortar_board: [**Florida Polytechnic University**][poly] Computer Science '24  
+:mortar_board: [**FL Poly**][poly] Computer Science '24  
 
 [poly]: https://floridapoly.edu/
 
