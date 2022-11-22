@@ -2,11 +2,15 @@
 
 **`Aspiring software engineer & computer scientist`**
 
-## Life
 :mortar_board: [**Florida Poly**][poly] Computer Science '24  
 
 [poly]: https://floridapoly.edu/
 
+- - -
+
+<details>
+<summary>:pushpin: More about me</summary>
+    
 ## Skills
 
 :man_technologist:		**C++**, C  
@@ -24,3 +28,7 @@
 <a href="https://paypal.me/dazexd">
     <img height="32" align="left" alt="PayPal" src="img/icons/paypal.png" />
 </a>
+    
+</details>
+    
+
