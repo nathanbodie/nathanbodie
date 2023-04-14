@@ -17,12 +17,12 @@
 :snake:					**Python**, NumPy, pandas, matplotlib  
 :art:			        Photoshop, Premiere Pro  
 
-## Currently Learning
+<!--## Currently Learning
 
 :memo:      Data Structures  
 :memo:      Algorithm Design & Analysis  
 :memo:      Bash, UNIX command line, and Vim  
-
+-->
 - - -
 
 <a href="https://paypal.me/dazexd">
