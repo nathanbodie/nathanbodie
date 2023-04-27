@@ -16,6 +16,7 @@
 :man_technologist:		**C++**, C  
 :snake:					**Python**, NumPy, pandas, matplotlib  
 :coffee:                **Java**, JavaFX  
+:musical_score:         **C#**, WPF, XAML  
 :art:			        **Photoshop**, Premiere Pro, Figma
 
 <!--## Currently Learning
