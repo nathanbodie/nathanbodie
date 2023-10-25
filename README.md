@@ -1,8 +1,8 @@
 # Hi, I'm Nathan <img height="32" alt="Penguin Waving" src="img/penguinwavinganim.webp" />
 
-**`Aspiring software engineer & computer scientist`**
+<!--**`Aspiring software engineer & computer scientist`**-->
 
-:mortar_board: [**Florida Poly**][poly] Computer Science '24  
+:mortar_board: [**Florida Poly**][poly] Computer Science '24 
 
 [poly]: https://floridapoly.edu/
 
