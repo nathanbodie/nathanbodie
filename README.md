@@ -6,6 +6,7 @@
 
 [poly]: https://floridapoly.edu/
 
+<!--##
 - - -
 
 <details>
@@ -19,12 +20,12 @@
 :musical_score:         **C#**, WPF, XAML  
 :art:			        **Photoshop**, Premiere Pro, Figma
 
-<!--## Currently Learning
+Currently Learning
 
 :memo:      Data Structures  
 :memo:      Algorithm Design & Analysis  
 :memo:      Bash, UNIX command line, and Vim  
--->
+
 - - -
 
 <a href="https://www.linkedin.com/in/nathanbodie/">
@@ -32,5 +33,5 @@
 </a>
     
 </details>
-    
+-->
 
