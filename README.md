@@ -19,6 +19,8 @@ I'm a Computer Science graduate and full stack developer with experience in Reac
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
     <img width="8" />
+    <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+    <img width="8" />
     <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
     <img width="8" />
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
