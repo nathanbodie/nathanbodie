@@ -1,4 +1,4 @@
-# Hi, I'm Nathan Bodie <img height="32" alt="Penguin Waving" src="img/penguinwavinganim.webp" />
+# Hi, I'm Nathan Bodie <img height="32" alt="Hand Waving" src="img/waving_hand.gif" />
 
 I'm a Computer Science graduate and full stack developer with experience in React, Next.js, TypeScript, and Python. I build scalable web apps, integrate AI tools, and solve technical challenges with a focus on clean UX and reliable systems.
 
